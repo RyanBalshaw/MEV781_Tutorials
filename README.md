@@ -8,4 +8,5 @@ The tutorials thus far are as follows:
 1. The Fourier Transform
 
 Tutorials I wish to add:
-Students sometimes struggle with time synchronous averaging, the order domain and time-varying operating conditions. It may be good to take a toy signal and showcase how the problems arise.
+- A tutorial on time synchronous averaging, the order domain and time-varying operating conditions may be a good idea. It may be good to take a toy signal and showcase how the problems arise.
+- A tutorial on the wavelet transform could be interesting.
