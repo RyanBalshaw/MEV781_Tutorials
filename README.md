@@ -11,3 +11,5 @@ The tutorials thus far are as follows:
 Tutorials I wish to add:
 - A tutorial on the wavelet transform could be interesting.
 - Perhaps another interesting tutorial (will need to discuss with others).
+
+NOTE: I know there are spelling mistakes in the TSA and COT document, I will edit them in the morning (Just in case someone reads this on the 7th of July)
