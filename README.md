@@ -6,7 +6,10 @@ This page will simply consist of Jupyter notebook files that one can access and 
 
 The tutorials thus far are as follows:
 1. The Fourier Transform
+2. A basic explanation of Time Synchronous Averaging and Computed Order Tracking.
 
 Tutorials I wish to add:
-- A tutorial on time synchronous averaging, the order domain and time-varying operating conditions may be a good idea. It may be good to take a toy signal and showcase how the problems arise.
 - A tutorial on the wavelet transform could be interesting.
+- Perhaps another interesting tutorial (will need to discuss with others).
+
+NOTE: I know there are spelling mistakes in the TSA and COT document, I will edit them in the morning (Just in case someone reads this on the 7th of July)
