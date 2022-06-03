@@ -6,7 +6,7 @@ This page will simply consist of Jupyter notebook files that one can access and 
 
 The tutorials thus far are as follows:
 1. The Fourier Transform (updated 31 August 2021)
-2. A basic explanation of Time Synchronous Averaging and Computed Order Tracking.
+2. A basic explanation of Time Synchronous Averaging and Computed Order Tracking (Updated 3 June 2022, thank you to Ulrich for spotting an issue in my example code!)
 
 Tutorials I wish to add:
 - A tutorial on the wavelet transform could be interesting.
